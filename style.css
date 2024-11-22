@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+
+}
+
+.header {
+    margin-bottom: 10px;
+}
+
+.name {
+
+    margin-top: 1px;
+    align-items: center;
+    text-align: center;
+}
+
+.text {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.profile-pic {
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    margin-left: 335px;
+    margin-top: 80px;
+    display: inline-block;
+
+}
+
+.hello {
+    text-align: center;
+    color: orange;
+    margin-top: 50px;
+}
+
+.introduction {
+    text-align: center;
+}
+
+
+.background {
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.design-development {
+    margin-top: 50px;
+    display: inline-block;
+    unicode-bidi: isolate;
+    padding-left: 5px;
+
+
+}
+
+#title {
+    margin-left: 225px;
+    color: blueviolet;
+    padding-left: 50px;
+    display: inline-block;
+
+}
+
+
+
+#cat {
+
+    border-radius: 8%;
+    position: absolute;
+}
+
+.text1 {
+    margin-left: 270px;
+    display: block;
+    width: 400px;
+
+
+}
+
+.computer{
+    height: 250px;
+    position:absolute;
+    padding-left: 190px;
+    
+    
+    
+}
+
+.building {  
+    
+    margin-top: 50px;
+    display: block;
+    margin-right: 10px;
+    
+
+    
+    
+}
+
+.title-2 {
+    color: blueviolet;
+    display: inline-block;
+    margin-left: 490px;
+}
+
+.building > h3{
+    
+    margin-left: 470px;
+    display: block;
+    width: 400px;
+    
+}
+
+.contact-me{
+    padding-top: 200px;
+    text-align: center;
+}
+
+#linkedin{
+   width: 100px;
+}
+
+.container{
+    display: flex;
+} 
